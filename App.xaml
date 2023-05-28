@@ -1,0 +1,11 @@
+﻿<Application x:Class="WinMenu.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WinMenu"
+             StartupUri="MainWindow.xaml">
+
+    <Application.Resources>
+        <FontFamily x:Key="Montserrat Medium">pack://application:,,,/Resources/#Montserrat Medium</FontFamily>
+        <FontFamily x:Key="Montserrat Semibold">pack://application:,,,/Resources/#Montserrat SemiBold</FontFamily>
+    </Application.Resources>
+</Application>
