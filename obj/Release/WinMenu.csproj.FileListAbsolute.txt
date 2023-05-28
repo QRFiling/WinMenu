@@ -1,0 +1,9 @@
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\WinMenu.csproj.AssemblyReference.cache
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\Interop.Shell32.dll
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\WinMenu.csproj.ResolveComReference.cache
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\MainWindow.g.cs
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\App.g.cs
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\WinMenu_MarkupCompile.cache
+C:\Users\QR Filing\source\repos\WinMenu\WinMenu\obj\Release\WinMenu_MarkupCompile.lref
